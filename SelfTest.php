@@ -251,4 +251,4 @@ public static function getResults()
     return $checks;
 }
 
-}`
+}
